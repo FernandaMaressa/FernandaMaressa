@@ -11,7 +11,7 @@
 
   </div>
 
-  <img src="java-anime.png" alt="anime java" width="200"/>
+  <img src="anime_java.png" alt="anime java" width="200"/>
 </div>
 
 ---
