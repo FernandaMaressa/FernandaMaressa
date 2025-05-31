@@ -2,9 +2,9 @@
 
 ### 👩‍💻 Acadêmica de Ciência da Computação – IFCE
 
-✨ Estudante dedicada, movida pela paixão por tecnologia e desenvolvimento de soluções inteligentes.
-💻 Explorando o universo da programação com ênfase em Java.
-🎨 Apaixonada por design web, unindo estética e funcionalidade.
+✨ Estudante dedicada, movida pela paixão por tecnologia e desenvolvimento de soluções inteligentes.<br>
+💻 Explorando o universo da programação com ênfase em Java.<br>
+🎨 Apaixonada por design web, unindo estética e funcionalidade.<br>
 🤖 Entusiasta de Inteligência Artificial e Machine Learning, sempre em busca de inovação.
 
 <img src="anime_java.png" alt="anime java" width="200" align="right"/>
