@@ -27,7 +27,7 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=dark&icon_color=8a2be2&text_color=ffffff&title_color=dda0dd&bg_color=00000000&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=dark&text_color=ffffff&title_color=dda0dd&bg_color=00000000"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=dark&text_color=ffffff&title_color=dda0dd&bg_color=00000000"/>
 </p>
 
 
