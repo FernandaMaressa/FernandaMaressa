@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=header&text=Olá,%20eu%20sou%20Fernanda%20Maressa!&fontSize=25&fontAlign=50&fontColor=ffffff" />
 <img src="meninapng.png" alt="menina java" width="200" align="right"/>
 
-### 👩‍💻 Acadêmica de Ciência da Computação – IFCE
+### Acadêmica de Ciência da Computação – IFCE
 
-✨ Estudante dedicada, movida pela paixão por tecnologia e desenvolvimento de soluções inteligentes.<br>
-💻 Explorando o universo da programação com ênfase em Java.<br>
-🎨 Apaixonada por design web, unindo estética e funcionalidade.<br>
-🤖 Entusiasta de Inteligência Artificial e Machine Learning, sempre em busca de inovação.
+- Estudante dedicada, movida pela paixão por tecnologia e desenvolvimento de soluções inteligentes.<br>
+- Explorando o universo da programação com ênfase em desenvolvimento FullStack.<br>
+- Apaixonada por design web, unindo estética e funcionalidade.<br>
+- Entusiasta de Inteligência Artificial e Machine Learning, sempre em busca de inovação.
 
 
 ---
