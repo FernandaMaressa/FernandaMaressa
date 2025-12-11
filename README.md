@@ -27,10 +27,9 @@
 ---
 
 ### 📊 Estatísticas GitHub
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=dark&icon_color=8a2be2&text_color=ffffff&title_color=dda0dd&bg_color=00000000&hide_title=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=dark&text_color=ffffff&title_color=dda0dd&bg_color=00000000&cache_seconds=10&cache=clear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=radical&icon_color=8a2be2&text_color=ffffff&title_color=dda0dd&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=radical&text_color=ffffff&title_color=dda0dd&bg_color=0d1117&hide_border=true"/>
 </p>
 
 
