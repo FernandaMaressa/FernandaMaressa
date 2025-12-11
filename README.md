@@ -27,10 +27,11 @@
 ---
 
 ### 📊 Estatísticas GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=radical&icon_color=8a2be2&text_color=ffffff&title_color=dda0dd&bg_color=0d1117&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=radical&text_color=ffffff&title_color=dda0dd&bg_color=0d1117&hide_border=true"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandaMaressa&theme=tokyonight" height="180em" />
+</div>
 
 
 ---
