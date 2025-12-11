@@ -28,10 +28,9 @@
 
 ### 📊 Estatísticas GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandaMaressa&theme=tokyonight" height="180em" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=radical&langs_count=8)
 
 
 ---
