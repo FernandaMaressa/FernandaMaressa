@@ -28,7 +28,7 @@
 
 ### Estatísticas GitHub
 ![GitHub Stats](https://github-readme-stats-neon-iota-72.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
+![Top Langs](https://github-readme-stats-neon-iota-72.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=radical&langs_count=10)
 
 
 ---
