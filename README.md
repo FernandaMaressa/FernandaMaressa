@@ -27,7 +27,9 @@
 ---
 
 ### Estatísticas GitHub
-![Metrics](./github-metrics.svg)
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact)
+
 
 
 ---
