@@ -27,9 +27,11 @@
 ---
 
 ### Estatísticas GitHub
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandaMaressa&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact)
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=FernandaMaressa&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FernandaMaressa&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
 
 
 ---
